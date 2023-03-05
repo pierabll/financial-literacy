@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: deangodfree.github.io/financial-literacy
+  repo: DeanGodfree/financial-literacy
   branch: main
   site_domain: genuine-dasik-5f0f83.netlify.app
   commit_messages:
