@@ -6,8 +6,8 @@ heading: Financial Literacy
 subheading: Unibg + WeWorld
 mainpitch:
   title: Why Piera
-  description: Piera is not very nice in the morning...
-description: Or the lunchtime
+  description: this is testing
+description: more testing
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -37,8 +37,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: Or the evening
-  description: Or the night
+  heading: even more testing
+  description: and some more
 main:
   heading: Great coffee with no compromises
   description: >
